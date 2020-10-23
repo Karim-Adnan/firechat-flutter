@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120828004774",
+    "firebase_url": "https://fire-chat-14df3.firebaseio.com",
+    "project_id": "fire-chat-14df3",
+    "storage_bucket": "fire-chat-14df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120828004774:android:37dc2c395ec5e706aaa767",
+        "android_client_info": {
+          "package_name": "com.adnankarim.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120828004774-jf9vib817voifbr28ikm2g8901a27c7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhuUVgwJUgQqLbXs6Z7SxuHzWUrnjFiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120828004774-jf9vib817voifbr28ikm2g8901a27c7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
